@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+project:
+ title: "Lab 4"
+ output-dir: docs
+ type: website
+
+format:
+ html:
+=======
+project:
+ title: "Lab 4"
+ output-dir: docs
+ type: website
+
+format:
+ html:
+>>>>>>> f649cd114d745fa452dbeff0184de1e936ed0638
+   self-contained: true
